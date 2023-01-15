@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biodata.iml" filepath="$PROJECT_DIR$/Biodata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../wildan titip/wildan titip.iml" filepath="$PROJECT_DIR$/../../wildan titip/wildan titip.iml" />
+    </modules>
+  </component>
+</project>
